@@ -77,3 +77,6 @@ pipeline {
     }
 }
 ```
+![Alt text](images/02.png)
+
+![Alt text](images/03.png)
